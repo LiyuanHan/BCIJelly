@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'HCIHub docs',
+  title: 'BCIhubdocs',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -81,9 +81,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'HCIHub docs',
+        title: 'BCIhubdocs',
         logo: {
-          alt: 'HCIHub docs Logo',
+          alt: 'BCIhubdocs Logo',
           src: 'img/logo.svg',
         },
         items: [

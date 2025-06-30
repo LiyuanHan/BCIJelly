@@ -1,10 +1,10 @@
 {
   "title": {
-    "message": "HCIHub docs",
+    "message": "BCIhubdocs",
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "HCIHub docs Logo",
+    "message": "BCIhubdocs Logo",
     "description": "The alt text of navbar logo"
   },
   "item.label.Tutorial": {
