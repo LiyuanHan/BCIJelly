@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbci_jelly=self.webpackChunkbci_jelly||[]).push([[1903],{1912:l=>{l.exports=JSON.parse('{"blogBasePath":"/BCIJelly/blog","blogTitle":"Blog","authorsListPath":"/BCIJelly/blog/authors"}')}}]);
