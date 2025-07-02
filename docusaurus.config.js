@@ -8,10 +8,10 @@ const config = {
   url: 'https://liyuanhan.github.io',       
   baseUrl: '/BCIJelly/',                   
 
-  organizationName: 'LiyuanHan',            // ✅ 改成你的用户名
-  projectName: 'BCIJelly',                  // ✅ 改成你的项目名
-  deploymentBranch: 'gh-pages',             // ✅ 确保这行写了
-  trailingSlash: false,                     // ✅ 建议写
+  organizationName: 'LiyuanHan',     
+  projectName: 'BCIJelly',               
+  deploymentBranch: 'gh-pages',         
+  trailingSlash: false,                 
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
