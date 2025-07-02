@@ -11,9 +11,11 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'BCIhubdocs',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
-
+  tagline: 'BCI is awesome!',
+  url: 'https://liyuanhan.github.io',       
+  baseUrl: '/BCIJelly/',                   
+  organizationName: 'LiyuanHan',              
+  projectName: 'BCIJelly',                  
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
   
@@ -23,15 +25,13 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://liyuanhan.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/BCIJelly/',
+
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'LiyuanHan', // Usually your GitHub org/user name.
-  projectName: 'BCIJelly', // Usually your repo name.
+
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
