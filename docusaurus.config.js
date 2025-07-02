@@ -3,7 +3,7 @@ const { themes: prismThemes } = require('prism-react-renderer');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'BCIhubdocs',
+  title: 'BCIJelly',
   tagline: 'BCI is awesome!',
   url: 'https://liyuanhan.github.io',       
   baseUrl: '/BCIJelly/',                   
