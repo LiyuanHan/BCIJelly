@@ -14,7 +14,7 @@ const config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
   
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
