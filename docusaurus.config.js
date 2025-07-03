@@ -18,10 +18,12 @@ const config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  url: 'https://LiyuanHan.github.io',
-  baseUrl: '/',
-  organizationName: 'LiyuanHan', // Usually your GitHub org/user name.
-  projectName: 'LiyuanHan.github.io', // Usually your repo name.
+  url: 'https://liyuanhan.github.io',
+  baseUrl: '/BCIJelly/',
+
+  organizationName: 'LiyuanHan',
+  projectName: 'BCIJelly',
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -91,6 +93,11 @@ const config = {
           },
           {
             type: 'localeDropdown',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/LiyuanHan/BCIJelly',
+            label: 'GitHub',
             position: 'right',
           },
         ],
