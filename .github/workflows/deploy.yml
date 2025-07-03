@@ -31,6 +31,11 @@ jobs:
           chmod 600 ~/.ssh/id_ed25519
           ssh-keyscan github.com >> ~/.ssh/known_hosts
 
+      - name: Configure Git identity
+        run: |
+          git config --global user.name "LiyuanHan"
+          git config --global user.email "hlyjingyuan@126.com"
+
       - name: Deploy to gh-pages
         env:
           USE_SSH: true
