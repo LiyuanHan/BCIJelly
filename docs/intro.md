@@ -13,3 +13,5 @@ Get started by **creating a new site**.
 Hello Hanliyuan
 
 BCIJelly is ongoing!
+
+Everyday becomes beautiful!
