@@ -5,14 +5,9 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 ```
 ├── .docusaurus/            # 构建缓存和临时文件（自动生成）
 ├── blog/                   # 博客文章（Markdown格式）
-├── docs/                   # 核心文档目录
+├── docs/                   # 当前版本目录
 │   ├── current/            # 当前版本文档内容
-│   ├── version-1.1.0/      # 1.1.0版本文档
-│   ├── version-1.2.0/      # 1.2.0版本文档
-│   └── i18n/               # 多语言支持
-│       └── zh/             # 中文翻译
-│           ├── current.json
-│           └── version-1.1.0.json
+
 ├── node_modules/           # 项目依赖（安装后自动生成）
 ├── src/                    # 自定义代码
 │   ├── pages/              # 自定义页面（React组件）
