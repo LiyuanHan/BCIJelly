@@ -9,9 +9,9 @@
 git add .
 
 # 3. 提交改动（带默认 commit message，可改为读取参数）
-git commit -m "更新文档内容"
+git commit -m "update documentation"
 
 # 4. 推送到 main 分支（触发 GitHub Action 自动部署）
 git push origin main
 
-echo "✅ 提交完成，等待 GitHub Actions 自动部署..."
+echo "✅ 提交完成，等待 GitHub Actions 自动部署 (~3 mins)..."
