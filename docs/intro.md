@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
 ---
-
 # Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
@@ -16,4 +15,6 @@ BCIJelly is ongoing!
 
 Everyday becomes beautiful!
 
-fkhkl; l;khfkljij hafkldkl 
+fkhkl; l;khfkljij hafkldkl
+
+happy happy ygy
